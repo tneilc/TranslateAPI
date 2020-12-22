@@ -6,4 +6,5 @@
 
 You can download the source code to use it or develop it.
 
-<h1>pip install requirements.txt</h1>
+To use it install requirements:
+<h4>pip install requirements.txt</h4>
