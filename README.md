@@ -2,4 +2,4 @@
 
 This is a translate API.
 <br/>
-Niec
+Not published to *pypi* yet
